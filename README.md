@@ -15,7 +15,10 @@
 
 ### [Presidente actual](https://es.wikipedia.org/wiki/Florentino_P%C3%A9rez)
 
-<img src=""/> 
+<img src="floren+.jpg"/> 
 
 
+### [Mejor jugadior del Real Madrid](https://ca.wikipedia.org/wiki/Cristiano_Ronaldo_dos_Santos_Aveiro) 
+
+<img src=""/>
 
