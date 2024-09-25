@@ -7,6 +7,7 @@ Su famoso estadio, el Santiago Bernabéu, es un ícono del deporte. Además, ha 
 ### En la actualuidad tiene:  
 
 ####                  - Trofeo FIFA al mejor club del siglo XX
+
 ####                  - 15 Copas de Europa
 ####                  - 8 Mundiales de club 
 ####                  - 6 Supercopas de Europa
@@ -17,7 +18,7 @@ Su famoso estadio, el Santiago Bernabéu, es un ícono del deporte. Además, ha 
 ####                  - 1 Copa de la liga 
 ####                  - 2 Pequeñas copas del mundo
 ####                  - 2 Copas latinas
-####                  - 1 Copa Iberoamerican
+####                  - 1 Copa Iberoamericana
 ####                  - 18 Campeonatos Regionales
 ####                  - 5 Trofeos Mancomunados
 
