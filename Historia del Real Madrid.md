@@ -1,6 +1,6 @@
 # El club mas grande del mundo
-## El Real Madrid Club de Fútbol fue fundado el 6 de marzo de 1902. Desde sus inicios, se destacó en el fútbol español y europeo. En 1920, recibió el título de "Real" por el rey Alfonso XIII. 
-A lo largo de su historia, ha ganado numerosos títulos, incluyendo más de 30 campeonatos de La Liga y 14 Copas de Europa, convirtiéndose en uno de los clubes más exitosos del mundo. 
+## El Real Madrid Club de Fútbol fue fundado el 6 de marzo de 1902. Desde sus inicios, se destacó en el fútbol español y europeo.
+En 1920, recibió el título de "Real" por el rey Alfonso XIII. A lo largo de su historia, ha ganado numerosos títulos, incluyendo más de 30 campeonatos de La Liga y 14 Copas de Europa, convirtiéndose en uno de los clubes más exitosos del mundo. 
 Su famoso estadio, el Santiago Bernabéu, es un ícono del deporte. Además, ha tenido grandes jugadores como Alfredo Di Stéfano, Cristiano Ronaldo y muchos más. ¡Es un club con una rica tradición y una apasionada afición!
 
 
